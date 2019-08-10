@@ -11,7 +11,7 @@ This React example app is the same as my other example app,
 
 ...except that the other one uses Redux.
 
-![react-simple-example-screen-shot](https://github.com/reactjsexample/react-simple-example/blob/master/src/assets/images/react-simple-example-screen-shot.png)
+![react-simple-example-screen-shot](https://github.com/reactjsexample/react-simple-example/blob/master/assets/images/react-simple-example-screen-shot.png)
 
 ## Table of Contents
 
